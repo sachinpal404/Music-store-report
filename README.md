@@ -23,7 +23,7 @@ A new team has been formed to analyze the company's current state with the objec
  This project demonstrates that I could handle tough data tasks and explain my findings clearly and interestingly. This experience boosted my technical skills and improved how I share data insights effectively.
 
  # Files in this repository
- * " Music_Store_database " - PostgreSQL dump file that contains the given data 
+ * " Music_Store_database.sql " - PostgreSQL dump file that contains the given data 
 
  * " music store report.pptx " - presentation of all the requests and findings
 
